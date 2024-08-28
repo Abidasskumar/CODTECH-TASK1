@@ -70,7 +70,7 @@ if __name__ == "__main__":
    ```bash
    python3 outdated_software.py
    ```
-2. The script will output a list of outdated packages, if any.
+2. The script will output a list of outdated packages,
  
 
 
