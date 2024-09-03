@@ -7,9 +7,11 @@ Domain : CYBER SECURITY&ETHICAL HACKING <br>
 Duration: Augest to September 2024 <br>
 Mentor : Muzammil Ahmed <br>
 # Vulnerability Scanning Tool
-<img src="https://github.com/Abidasskumar/CODTECH-TASK1/blob/main/open%20port%20output%20image.png">
+
 ## Overview
 This tool leverages Nmap to scan for open ports on a target system and includes a Python script to identify outdated software. The tool is essential for security professionals to assess and mitigate vulnerabilities.
+
+<img src="https://github.com/Abidasskumar/CODTECH-TASK1/blob/main/open%20port%20output%20image.png">
 
 ## Prerequisites
 - **Nmap**: Ensure Nmap is installed on your system. You can install it via:
