@@ -1,13 +1,13 @@
 
 
-Name : ABIDASS k
-Company: CODTECH IT SOLUTIONS
-Intern ID : CT08DS6417
-Domain : CYBER SECURITY&ETHICAL HACKING
-Duration: Augest to September 2024
-Mentor : Muzammil Ahmed
+Name : ABIDASS k <br>
+Company: CODTECH IT SOLUTIONS <br>
+Intern ID : CT08DS6417 <br>
+Domain : CYBER SECURITY&ETHICAL HACKING <br>
+Duration: Augest to September 2024 <br>
+Mentor : Muzammil Ahmed <br>
 # Vulnerability Scanning Tool
-
+<img src="https://github.com/Abidasskumar/CODTECH-TASK1/blob/main/open%20port%20output%20image.png">
 ## Overview
 This tool leverages Nmap to scan for open ports on a target system and includes a Python script to identify outdated software. The tool is essential for security professionals to assess and mitigate vulnerabilities.
 
@@ -64,6 +64,8 @@ def find_outdated_packages():
 if __name__ == "__main__":
     find_outdated_packages()
 ```
+
+<img src="https://github.com/Abidasskumar/CODTECH-TASK1/blob/main/Outdated%20Software%20Checking%20Output%20Image">
 
 ### Usage:
 1. Run the script using Python:
